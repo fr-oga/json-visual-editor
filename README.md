@@ -3,6 +3,8 @@
 > Web based JSON Editor powered by React.
 > http://ogaoga.github.io/json-visual-editor/
 
+![Screenshot of JSON Visual Editor](https://qiita-image-store.s3.amazonaws.com/0/4617/b1011c1c-62c4-5a38-d17c-42708f7b8296.png)
+
 ## To develop
 
 * You'll need to have [git](https://git-scm.com/) and [node](https://nodejs.org/en/) installed in your system.
